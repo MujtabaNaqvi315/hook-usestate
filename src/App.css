@@ -1,0 +1,25 @@
+h1 {
+  font-size: 100px;
+}
+
+.container {
+  margin: 0 auto 19%;
+}
+
+button {
+  display: inline-block;
+  background-color: #6bbe92;
+  border: 0;
+  width: 60px;
+  margin: 10px;
+  text-align: center;
+  color: #fff;
+  font-weight: bold;
+  font-size: 50px;
+}
+
+button.timer-btn {
+  width: 300px;
+  padding: 20px 0;
+  border-radius: 20px;
+}
